@@ -1,3 +1,6 @@
+# Adding config.py from Module 8 challenge.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
