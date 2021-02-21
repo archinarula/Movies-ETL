@@ -26,7 +26,7 @@ A total of 6052 movies are imported into the database and raw data for the ratin
 
 ! https://github.com/archinarula/Movies-ETL/blob/main/Resources/movies_query.png
 
-[!(/Resources/ratings_query.png)]
+![ratingsQuery](/Resources/ratings_query.png)
 
 
 
