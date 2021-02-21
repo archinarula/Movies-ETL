@@ -24,7 +24,7 @@ https://github.com/archinarula/Movies-ETL/blob/main/ETL_create_database.ipynb
 
 A total of 6052 movies are imported into the database and raw data for the ratings is also added (totalling 26,024,289 ratings across all movies) as proven by the below queries
 
-!(https://github.com/archinarula/Movies-ETL/blob/main/Resources/movies_query.png)
+!https://github.com/archinarula/Movies-ETL/blob/main/Resources/movies_query.png
 
 [!(/Resources/ratings_query.png)]
 
